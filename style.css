@@ -1,0 +1,42 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #1A385A, #769ABE);
+}
+
+.IHM
+{
+  
+  width: 50px;
+  height: 50px;
+}
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 40px;letter-spacing: 10px;margin-top: 80px;
+}
+.p
+{
+    color: white;font-family: 'Yeon Sung';font-size: 15px;letter-spacing: 10px;margin-top: 80px;margin-right: 200px;
+}
+
+.p-info
+{
+    color: white;font-size: 15px;letter-spacing: 5px;margin-top: 80px;margin-left: 200px;margin-right: 200px;
+}
+.content-header
+{
+  color: white;font-family: 'Yeon Sung';font-size: 25px;letter-spacing: 10px;margin-top: 80px;
+}
+.content
+{
+  background-color: rgba(250, 235, 215, 0.678);margin-left: 100px;margin-right: 100px;border-radius: 20px;
+}
+.needs
+{
+  width: 575px;height: 500px;
+}
